@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OpenRemise")(type "KiCad")(uri "${KIPRJMOD}/OpenRemise.pretty")(options "")(descr ""))
+)
