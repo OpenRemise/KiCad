@@ -9,4 +9,4 @@
 </picture>
 </a>
 
-KiCad schematic symbol and footprint libraries
+[KiCad](https://www.kicad.org) schematic symbol and footprint libraries
